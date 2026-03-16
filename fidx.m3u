@@ -131,4 +131,7 @@ https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/California_Music_Channel_Logo_%28cropped%29.png" group-title="Music",California Music
 https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://webchnl.com/assets/img/channelicons/totalmusic80s.png" group-title="Music",Totalmusic 80s
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+
 
