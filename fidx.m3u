@@ -110,5 +110,5 @@ https://shls-live-enc.edgenextcdn.net/out/v1/45ad6fbe1f7149ad9f05f8aefc38f6c0/in
 #EXTINF:-1 tvg-id="OTV.lb@SD" tvg-logo="https://i.imgur.com/toxFMeY.png" group-title="News",OTV
 https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
 
-https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8
 #EXTINF:-1 tvg-id="RedTVLebanon.lb@HD" tvg-logo="https://i.imgur.com/bWwY885.png" group-title="News",Red TV Lebanon
+https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
