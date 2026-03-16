@@ -104,7 +104,7 @@ https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LanaTV.lb@SD" tvg-logo="https://i.imgur.com/xPoycVY.png" group-title="Family",LTV
 https://p-ltv.akamaized.net/ltv/ltv.m3u8
 
-#EXTINF:-1 tvg-id="MTVLebanon.lb@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Logo_MTV_%28Lebanon%29.png" group-title="Family",MTV
+#EXTINF:-1 tvg-id="MTVLebanon.lb@SD" tvg-logo="https://www.mtv.com.lb/images/vodPopup/mtv-logo.png" group-title="Family",MTV
 https://shls-live-enc.edgenextcdn.net/out/v1/45ad6fbe1f7149ad9f05f8aefc38f6c0/index.m3u8
 
 #EXTINF:-1 tvg-id="OTV.lb@SD" tvg-logo="https://i.imgur.com/toxFMeY.png" group-title="News",OTV
