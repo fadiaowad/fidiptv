@@ -116,3 +116,6 @@ https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.fadaatmedia.com/sites/default/files/2025-03/Logo%20syria%202%20Color.png" group-title="Family",Syria 2
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Nogoum_FM.svg/3840px-Nogoum_FM.svg.png" group-title="Music",Nogoum FMTV
+https://nogoumtv.nrpstream.com/hls/stream.m3u8
+
