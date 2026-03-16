@@ -122,3 +122,6 @@ https://nogoumtv.nrpstream.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s140482/images/logog.jpg" group-title="Radio",Pulse95 Radio
 https://svs.itworkscdn.net/pulse95live/pulse96/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/4fun.tv_Logo_%282017%29.svg/1280px-4fun.tv_Logo_%282017%29.svg.png" group-title="Music",4FUN TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+
