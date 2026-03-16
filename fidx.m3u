@@ -119,3 +119,6 @@ https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Nogoum_FM.svg/3840px-Nogoum_FM.svg.png" group-title="Music",Nogoum FMTV
 https://nogoumtv.nrpstream.com/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s140482/images/logog.jpg" group-title="Radio",Pulse95 Radio
+https://svs.itworkscdn.net/pulse95live/pulse96/playlist.m3u8
+
