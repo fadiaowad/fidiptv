@@ -1,77 +1,114 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AdventureEarth.de@SD" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png" group-title="Documentary",Adventure Earth
 https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa@SD" tvg-logo="https://i.imgur.com/5dNJlLo.png" group-title="Documentary",Al Jazeera Documentary
 https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
+
 #EXTINF:-1 tvg-id="AsharqDiscovery.sa@SD" tvg-logo="https://i.imgur.com/Czxi7yk.png" group-title="Documentary",Asharq Discovery
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+
 #EXTINF:-1 tvg-id="AsharqDocumentary.sa@SD" tvg-logo="https://i.imgur.com/v6VsFEt.png" group-title="Documentary",Asharq Documentary
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+
 #EXTINF:-1 tvg-id="BBCEarth.uk@Asia" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Documentary",BBC Earth Asia
 https://cdn4.skygo.mn/live/disk1/BBC_earth/HLSv3-FTA/BBC_earth.m3u8
+
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn@SD" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="Documentary",CGTN Documentary
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+
 #EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae@HD" tvg-logo="https://i.imgur.com/fNA00VF.png" group-title="Documentary",National Geographic Abu Dhabi
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_hls_nd/index.m3u8
+
 #EXTINF:-1 tvg-id="TerraMaterWILD.de@English" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/terramaterwild_white.png" group-title="Documentary",Terra Mater WILD
 https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/0533EDE3-0FB3-444E-8AEB-D7307D4EB5FA/3-1x1.png" tvg-id="LN_0533EDE3-0FB3-444E-8AEB-D7307D4EB5FA" group-title="Documentary",How To
 https://s9host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config12/playlist.m3u8?ads.cdnhost=s9host5.localnow.api.cms.amdvids.com&ads.playbackid=0533EDE3-0FB3-444E-8AEB-D7307D4EB5FA&ads.n1=rule_id&ads.v1=31E67C91-301F-4DA0-997C-55E852CBE4CB-1752176430&ads.n3=qp_content_id&ads.v3=0533EDE3-0FB3-444E-8AEB-D7307D4EB5FA&ads.n4=content_name&ads.v4=How%20To&ads.n21=channel_corp&ads.v21=Warner%20Brothers%20Discovery&ads.n22=content_producer_name&ads.v22=Warner%20Brothers%20Discovery&ads.n23=w&ads.v23=1920&ads.n24=gpp_sid&ads.v24=&ads.n25=app_bundle&ads.v25=&ads.n26=ifa_type&ads.v26=&ads.n27=content_type&ads.v27=channel&ads.n28=channel_brand_id&ads.v28=AMDB013580&ads.n29=cust_devicename&ads.v29=desktop_web&ads.n30=device_type&ads.v30=&ads.n31=ua&ads.v31=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n32=ip&ads.v32=86.48.9.131&ads.n33=content_custom_3_param&ads.v33=channel&ads.n34=content_custom_1_param&ads.v34=0533EDE3-0FB3-444E-8AEB-D7307D4EB5FA&ads.n35=h&ads.v35=1080&ads.n36=app_version&ads.v36=0.0.0&ads.n37=channel_name&ads.v37=How%20To&ads.n38=network_name&ads.v38=how-to&ads.n39=channel_ext_id&ads.v39=&ads.n40=content_livestream&ads.v40=1&ads.n41=app_name&ads.v41=&ads.n42=channel_language&ads.v42=en&ads.n43=pos&ads.v43=midroll&ads.n44=channel_company_id&ads.v44=AMDP500559&ads.n45=channel_id&ads.v45=0533EDE3-0FB3-444E-8AEB-D7307D4EB5FA&ads.n46=content_provider&ads.v46=how-to&ads.n47=app_store_url&ads.v47=&ads.n48=content_custom_2_param&ads.v48=AMDB013580&ads.n49=channel_genre&ads.v49=Lifestyle&ads.n50=dnt&ads.v50=&ads.n51=us_privacy&ads.v51=1YNY&ads.n52=channel_rating&ads.v52=TV-PG&ads.n53=device_make&ads.v53=&ads.n54=url&ads.v54=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n55=channel_title&ads.v55=How%20To&ads.n56=gpp&ads.v56=&ads.n57=device_model&ads.v57=&ads.n58=did&ads.v58=
+
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/5B906B36-29CB-441B-ADCD-921E22A67BDD/3-1x1.png" tvg-id="LN_5B906B36-29CB-441B-ADCD-921E22A67BDD" group-title="Documentary",Drone TV
 https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8?ads.content_title=5B906B36-29CB-441B-ADCD-921E22A67BDD&ads.content_provider=drone-tv&ads.channel_company_id=AMDP500408&ads.channel_ext_id=627bff101985ad459d0e3c22&ads.device_make=&ads.ifa_type=&ads.ip=86.48.9.131&ads.coppa=0&ads.channel_brand_id=AMDB012798&ads.app_name=&ads.device_model=&ads.app_bundle=&ads.content_id=5B906B36-29CB-441B-ADCD-921E22A67BDD&ads.wurl_name=DroneTV&ads.wurl_channel=1072&ads.content_genre=Technology&ads.channel_corp=Air%20Vuz%20LLC&ads.app_store_url=&ads.did=&ads.cust_devicename=&ads.device_type=&ads.dnt=&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.us_privacy=1YNY&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&width=1920&app_version=0.0.0&device_devicetype=desktop_web&height=1080
 
-
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D353EE9C-6B6C-40ED-B605-9CAEDDF1F4D0/3-1x1.png" tvg-id="LN_D353EE9C-6B6C-40ED-B605-9CAEDDF1F4D0" group-title="Music",Now 70s
 https://s7host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config9/playlist.m3u8?ads.cdnhost=s7host5.localnow.api.cms.amdvids.com&ads.playbackid=D353EE9C-6B6C-40ED-B605-9CAEDDF1F4D0&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=D353EE9C-6B6C-40ED-B605-9CAEDDF1F4D0&ads.n4=content_name&ads.v4=EPG%20%7C%20Now%2070s&ads.n21=content_custom_2_param&ads.v21=AMDB013347&ads.n22=channel_genre&ads.v22=Music%20Video&ads.n23=ip&ads.v23=86.48.9.131&ads.n24=app_version&ads.v24=0.0.0&ads.n25=channel_language&ads.v25=en&ads.n26=content_type&ads.v26=channel&ads.n27=channel_ext_id&ads.v27=&ads.n28=h&ads.v28=1080&ads.n29=network_name&ads.v29=now-70s&ads.n30=device_model&ads.v30=&ads.n31=channel_name&ads.v31=EPG%20%20Now%2070s&ads.n32=content_producer_name&ads.v32=Lightning%20International%20Limited&ads.n33=channel_company_id&ads.v33=AMDP500507&ads.n34=w&ads.v34=1920&ads.n35=cust_devicename&ads.v35=desktop_web&ads.n36=channel_corp&ads.v36=Lightning%20International%20Limited&ads.n37=app_name&ads.v37=&ads.n38=gpp&ads.v38=&ads.n39=content_provider&ads.v39=now-70s&ads.n40=device_type&ads.v40=&ads.n41=content_livestream&ads.v41=1&ads.n42=app_store_url&ads.v42=&ads.n43=did&ads.v43=&ads.n44=us_privacy&ads.v44=1YNY&ads.n45=gpp_sid&ads.v45=&ads.n46=channel_brand_id&ads.v46=AMDB013347&ads.n47=device_make&ads.v47=&ads.n48=dnt&ads.v48=&ads.n49=url&ads.v49=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n50=ifa_type&ads.v50=&ads.n51=pos&ads.v51=midroll&ads.n52=channel_rating&ads.v52=TV-PG&ads.n53=channel_id&ads.v53=D353EE9C-6B6C-40ED-B605-9CAEDDF1F4D0&ads.n54=channel_title&ads.v54=EPG%20%20Now%2070s&ads.n55=content_custom_1_param&ads.v55=D353EE9C-6B6C-40ED-B605-9CAEDDF1F4D0&ads.n56=app_bundle&ads.v56=&ads.n57=content_custom_3_param&ads.v57=channel&ads.n58=ua&ads.v58=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36
+
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/043AAC60-0203-4C49-A6C1-D24CD5FA4429/3-1x1.png" tvg-id="LN_043AAC60-0203-4C49-A6C1-D24CD5FA4429" group-title="Music",Now 80s
 https://s7host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config9/playlist.m3u8?ads.cdnhost=s7host5.localnow.api.cms.amdvids.com&ads.playbackid=043AAC60-0203-4C49-A6C1-D24CD5FA4429&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=043AAC60-0203-4C49-A6C1-D24CD5FA4429&ads.n4=content_name&ads.v4=EPG%20%7C%20%20Now%2080s&ads.n21=app_version&ads.v21=0.0.0&ads.n22=content_custom_2_param&ads.v22=AMDB013348&ads.n23=content_custom_3_param&ads.v23=channel&ads.n24=channel_title&ads.v24=EPG%20%20%20Now%2080s&ads.n25=content_type&ads.v25=channel&ads.n26=ua&ads.v26=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n27=channel_ext_id&ads.v27=&ads.n28=h&ads.v28=1080&ads.n29=device_make&ads.v29=&ads.n30=did&ads.v30=&ads.n31=cust_devicename&ads.v31=desktop_web&ads.n32=channel_name&ads.v32=EPG%20%20%20Now%2080s&ads.n33=ip&ads.v33=86.48.9.131&ads.n34=channel_company_id&ads.v34=AMDP500507&ads.n35=ifa_type&ads.v35=&ads.n36=gpp&ads.v36=&ads.n37=channel_rating&ads.v37=TV-PG&ads.n38=app_bundle&ads.v38=&ads.n39=content_livestream&ads.v39=1&ads.n40=url&ads.v40=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n41=app_name&ads.v41=&ads.n42=channel_genre&ads.v42=Music%20Video&ads.n43=content_provider&ads.v43=now-80s&ads.n44=content_custom_1_param&ads.v44=043AAC60-0203-4C49-A6C1-D24CD5FA4429&ads.n45=channel_language&ads.v45=en&ads.n46=channel_id&ads.v46=043AAC60-0203-4C49-A6C1-D24CD5FA4429&ads.n47=channel_corp&ads.v47=Lightning%20International%20Limited&ads.n48=dnt&ads.v48=&ads.n49=device_type&ads.v49=&ads.n50=w&ads.v50=1920&ads.n51=app_store_url&ads.v51=&ads.n52=device_model&ads.v52=&ads.n53=network_name&ads.v53=now-80s&ads.n54=content_producer_name&ads.v54=Lightning%20International%20Limited&ads.n55=pos&ads.v55=midroll&ads.n56=channel_brand_id&ads.v56=AMDB013348&ads.n57=us_privacy&ads.v57=1YNY&ads.n58=gpp_sid&ads.v58=
+
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/693E205D-9369-43DE-8DCC-BF90CC0951C5/3-1x1.png" tvg-id="LN_693E205D-9369-43DE-8DCC-BF90CC0951C5" group-title="Music",Now Rock
 https://s7host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config9/playlist.m3u8?ads.cdnhost=s7host5.localnow.api.cms.amdvids.com&ads.playbackid=693E205D-9369-43DE-8DCC-BF90CC0951C5&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=693E205D-9369-43DE-8DCC-BF90CC0951C5&ads.n4=content_name&ads.v4=EPG%20%7C%20%20%20Now%20Rock&ads.n21=app_version&ads.v21=0.0.0&ads.n22=content_provider&ads.v22=now-90s&ads.n23=channel_ext_id&ads.v23=&ads.n24=channel_genre&ads.v24=Music%20Video&ads.n25=pos&ads.v25=midroll&ads.n26=app_store_url&ads.v26=&ads.n27=dnt&ads.v27=&ads.n28=cust_devicename&ads.v28=desktop_web&ads.n29=channel_company_id&ads.v29=AMDP500507&ads.n30=channel_language&ads.v30=en&ads.n31=content_producer_name&ads.v31=Lightning%20International%20Limited&ads.n32=app_bundle&ads.v32=&ads.n33=h&ads.v33=1080&ads.n34=us_privacy&ads.v34=1YNY&ads.n35=did&ads.v35=&ads.n36=channel_corp&ads.v36=Lightning%20International%20Limited&ads.n37=content_custom_2_param&ads.v37=AMDB013349&ads.n38=device_type&ads.v38=&ads.n39=content_custom_1_param&ads.v39=693E205D-9369-43DE-8DCC-BF90CC0951C5&ads.n40=url&ads.v40=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n41=device_make&ads.v41=&ads.n42=channel_name&ads.v42=EPG%20%20%20%20Now%20Rock&ads.n43=ifa_type&ads.v43=&ads.n44=device_model&ads.v44=&ads.n45=content_livestream&ads.v45=1&ads.n46=content_custom_3_param&ads.v46=channel&ads.n47=w&ads.v47=1920&ads.n48=gpp&ads.v48=&ads.n49=ip&ads.v49=86.48.9.131&ads.n50=channel_id&ads.v50=693E205D-9369-43DE-8DCC-BF90CC0951C5&ads.n51=ua&ads.v51=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n52=channel_rating&ads.v52=TV-PG&ads.n53=app_name&ads.v53=&ads.n54=channel_brand_id&ads.v54=AMDB013349&ads.n55=gpp_sid&ads.v55=&ads.n56=network_name&ads.v56=now-90s&ads.n57=content_type&ads.v57=channel&ads.n58=channel_title&ads.v58=EPG%20%20%20%20Now%20Rock
 
-
-
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/CB5CDBE8-57CC-42D0-BED6-E5979B26EE80/3-1x1.png" tvg-id="LN_CB5CDBE8-57CC-42D0-BED6-E5979B26EE80" group-title="Comedy",Mr. Bean
 https://s11host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config13/master.m3u8?ads.cdnhost=s11host2.localnow.api.cms.amdvids.com&ads.playbackid=CB5CDBE8-57CC-42D0-BED6-E5979B26EE80&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=CB5CDBE8-57CC-42D0-BED6-E5979B26EE80&ads.n4=content_name&ads.v4=Mr.%20Bean%20Live%20Action&ads.n21=channel_title&ads.v21=Mr.%20Bean%20Live%20Action&ads.n22=content_producer_name&ads.v22=Banijay%20Rights%20LTD&ads.n23=h&ads.v23=1080&ads.n24=device_model&ads.v24=&ads.n25=gpp&ads.v25=&ads.n26=device_type&ads.v26=&ads.n27=ip&ads.v27=86.48.9.131&ads.n28=content_type&ads.v28=channel&ads.n29=content_custom_2_param&ads.v29=AMDB013679&ads.n30=pos&ads.v30=midroll&ads.n31=content_custom_1_param&ads.v31=CB5CDBE8-57CC-42D0-BED6-E5979B26EE80&ads.n32=channel_ext_id&ads.v32=&ads.n33=network_name&ads.v33=mr-bean-live-action&ads.n34=ua&ads.v34=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n35=channel_language&ads.v35=en&ads.n36=app_store_url&ads.v36=&ads.n37=cust_devicename&ads.v37=desktop_web&ads.n38=device_make&ads.v38=&ads.n39=gpp_sid&ads.v39=&ads.n40=content_livestream&ads.v40=1&ads.n41=channel_brand_id&ads.v41=AMDB013679&ads.n42=channel_name&ads.v42=Mr.%20Bean%20Live%20Action&ads.n43=content_custom_3_param&ads.v43=channel&ads.n44=channel_corp&ads.v44=Banijay%20Rights%20LTD&ads.n45=channel_rating&ads.v45=TV-PG&ads.n46=app_bundle&ads.v46=&ads.n47=dnt&ads.v47=&ads.n48=w&ads.v48=1920&ads.n49=app_name&ads.v49=&ads.n50=channel_id&ads.v50=CB5CDBE8-57CC-42D0-BED6-E5979B26EE80&ads.n51=ifa_type&ads.v51=&ads.n52=app_version&ads.v52=0.0.0&ads.n53=url&ads.v53=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n54=channel_genre&ads.v54=Comedy&ads.n55=content_provider&ads.v55=mr-bean-live-action&ads.n56=us_privacy&ads.v56=1YNY&ads.n57=channel_company_id&ads.v57=AMDP500504&ads.n58=did&ads.v58=
+
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/E817E82A-A322-4FA4-8F55-0E17116F726B/3-1x1.png" tvg-id="LN_E817E82A-A322-4FA4-8F55-0E17116F726B" group-title="Comedy",The Carol Burnett Show
 https://s9host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/playlist.m3u8?ads.cdnhost=s9host4.localnow.api.cms.amdvids.com&ads.playbackid=E817E82A-A322-4FA4-8F55-0E17116F726B&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=E817E82A-A322-4FA4-8F55-0E17116F726B&ads.n4=content_name&ads.v4=The%20Carol%20Burnett%20Show&ads.n21=content_custom_1_param&ads.v21=E817E82A-A322-4FA4-8F55-0E17116F726B&ads.n22=channel_corp&ads.v22=Shout%21%20Factory%20LLC&ads.n23=channel_language&ads.v23=en&ads.n24=content_type&ads.v24=channel&ads.n25=h&ads.v25=1080&ads.n26=channel_genre&ads.v26=Comedy&ads.n27=cust_devicename&ads.v27=desktop_web&ads.n28=ifa_type&ads.v28=&ads.n29=pos&ads.v29=midroll&ads.n30=gpp&ads.v30=&ads.n31=channel_id&ads.v31=E817E82A-A322-4FA4-8F55-0E17116F726B&ads.n32=device_model&ads.v32=&ads.n33=content_livestream&ads.v33=1&ads.n34=content_custom_2_param&ads.v34=AMDB013522&ads.n35=url&ads.v35=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n36=device_type&ads.v36=&ads.n37=channel_title&ads.v37=The%20Carol%20Burnett%20Show&ads.n38=ip&ads.v38=86.48.9.131&ads.n39=did&ads.v39=&ads.n40=device_make&ads.v40=&ads.n41=us_privacy&ads.v41=1YNY&ads.n42=app_bundle&ads.v42=&ads.n43=content_producer_name&ads.v43=Shout%21%20Factory%20LLC&ads.n44=channel_rating&ads.v44=TV-PG&ads.n45=dnt&ads.v45=&ads.n46=channel_ext_id&ads.v46=&ads.n47=w&ads.v47=1920&ads.n48=app_version&ads.v48=0.0.0&ads.n49=channel_company_id&ads.v49=AMDP500152&ads.n50=content_custom_3_param&ads.v50=channel&ads.n51=channel_brand_id&ads.v51=AMDB013522&ads.n52=app_store_url&ads.v52=&ads.n53=ua&ads.v53=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n54=content_provider&ads.v54=carol-burnett&ads.n55=network_name&ads.v55=carol-burnett&ads.n56=channel_name&ads.v56=The%20Carol%20Burnett%20Show&ads.n57=app_name&ads.v57=&ads.n58=gpp_sid&ads.v58=
 
-
 #EXTINF:-1 tvg-name="Al Jazeera العربية" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-id="AlJazeeraChannel.qa" group-title="News",Al Jazeera العربية
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+
 #EXTINF:-1 tvg-name="Al Arabiya العربية" tvg-logo="https://images.seeklogo.com/logo-png/49/1/al-arabiya-logo-png_seeklogo-498766.png" tvg-id="AlArabiya.ae" group-title="News",Al Arabiya العربية
 https://www.youtube.com/c/FRANCE24Arabic/live
+
 #EXTINF:-1 tvg-name="DW العربية" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-id="DWArabic.de" group-title="News",DW العربية
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+
 #EXTINF:-1 tvg-name="Sky News العربية" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Sky_News_Arabia_2022_logo.svg/500px-Sky_News_Arabia_2022_logo.svg.png" tvg-id="SkyNewsArabia.ae" group-title="News",Sky News العربية
 https://stream.skynewsarabia.com/hls/sna.m3u8
+
 #EXTINF:-1 tvg-name="RT العربية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" tvg-id="RTArabic.ru" group-title="News",RT العربية
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="News",BBC Arabic
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o1Vz78r.png" group-title="News",France 24
 https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="News",CGTN Arabic
 https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="AlHadath.sa@SD" tvg-logo="https://i.imgur.com/De4SEWE.png" group-title="News",Al Hadath (1080p)
+
+#EXTINF:-1 tvg-id="AlHadath.sa@SD" tvg-logo="https://i.imgur.com/De4SEWE.png" group-title="News",Al Hadath
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
-#EXTINF:-1 tvg-id="AlManar.lb@SD" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="News",Al Manar (576p) [Not 24/7]
+
+#EXTINF:-1 tvg-id="AlManar.lb@SD" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="News",Al Manar [Not 24/7]
 https://edge.fastpublish.me/live/index.m3u8
-#EXTINF:-1 tvg-id="AlMayadeenTV.lb@SD" tvg-logo="https://i.imgur.com/GtQOKeW.png" group-title="News",Al Mayadeen (576p)
+
+#EXTINF:-1 tvg-id="AlMayadeenTV.lb@SD" tvg-logo="https://i.imgur.com/GtQOKeW.png" group-title="News",Al Mayadeen
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png" group-title="News",Euronews English HD
 https://dash4.antik.sk/live/test_euronews/playlist.m3u8
-#EXTINF:-1 tvg-id="SyriaTV.sy@SD" tvg-logo="https://i.imgur.com/FjuVuXF.jpeg" group-title="News",Syria TV (1080p)
+
+#EXTINF:-1 tvg-id="SyriaTV.sy@SD" tvg-logo="https://i.imgur.com/FjuVuXF.jpeg" group-title="News",Syria TV
 https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Classics.svg/500px-Cartoon_Classics.svg.png?_=20231209162922" group-title="Cartoon",Cartoon Classics
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8?ads.vf=7TNIxrkadpW
+
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://www.metvtoons.com/images/metvtoons_logo_blue_tm.png?v1" group-title="Cartoon",ME TV TOONS
 https://d3m10mlzdolmch.cloudfront.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/metv_toon_nr/0d1dbf29e64e47bc991796cc24fbeb97/index.m3u8
 
-
-
-
-#EXTINF:-1 tvg-id="MixHollywood.eg@SD" tvg-logo="https://i.imgur.com/1ENdbZn.png" group-title="Movies",Mix Hollywood (1080p)
+#EXTINF:-1 tvg-id="MixHollywood.eg@SD" tvg-logo="https://i.imgur.com/1ENdbZn.png" group-title="Movies",Mix Hollywood
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
-#EXTINF:-1 tvg-id="MoviesAction.sa@SD" tvg-logo="https://i.imgur.com/NIVhISa.png" group-title="Movies",Movies Action (1080p)
+
+#EXTINF:-1 tvg-id="MoviesAction.sa@SD" tvg-logo="https://i.imgur.com/NIVhISa.png" group-title="Movies",Movies Action
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJadeed.lb@SD" tvg-logo="https://i.imgur.com/CfxR8o3.png" group-title="Family",Al Jadeed
+http://185.9.2.18/chid_391/mono.m3u8
+
+#EXTINF:-1 tvg-id="FutureTV.lb@SD" tvg-logo="https://i.imgur.com/OaqEpwe.png" group-title="Family",Future TV
+https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LanaTV.lb@SD" tvg-logo="https://i.imgur.com/xPoycVY.png" group-title="Family",LTV
+https://p-ltv.akamaized.net/ltv/ltv.m3u8
+
+#EXTINF:-1 tvg-id="MTVLebanon.lb@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png" group-title="Family",MTV
+https://shls-live-enc.edgenextcdn.net/out/v1/45ad6fbe1f7149ad9f05f8aefc38f6c0/index.m3u8
+
+#EXTINF:-1 tvg-id="OTV.lb@SD" tvg-logo="https://i.imgur.com/toxFMeY.png" group-title="News",OTV
+https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
+
+https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8
+#EXTINF:-1 tvg-id="RedTVLebanon.lb@HD" tvg-logo="https://i.imgur.com/bWwY885.png" group-title="News",Red TV Lebanon
