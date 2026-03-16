@@ -142,3 +142,14 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_en
 
 #EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_dance.png" group-title="Music",Totalmusic Dance
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.viaway.com/26295749_640.png" group-title="Music",VEVO POP
+https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.viaway.com/26295749_640.png" group-title="Music",VEVO RETRO ROCK
+https://d2hdqrshyzxswl.cloudfront.net/Vevo_Retro_Rock.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-480&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fccac86b4-f8b8-445a-89ce-1b79927b857c%2F1500_x_1000_Color_Logo_PLEX.png" group-title="Comedy",LOL !
+https://aegis-cloudfront-1.tubi.video/54f95462-b44d-4c99-b74b-af49467454fa/playlist.m3u8
+
+
