@@ -155,4 +155,7 @@ https://aegis-cloudfront-1.tubi.video/54f95462-b44d-4c99-b74b-af49467454fa/playl
 #EXTINF:-1 tvg-logo="https://scontent.fdxb1-1.fna.fbcdn.net/v/t39.30808-6/564054710_1414255690306652_6877773940351535009_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=13d280&_nc_ohc=sgLK0oLn840Q7kNvwGW0Dp2&_nc_oc=AdmvrLoBlA-FTxDbONnk83eWp_Rn10CL_8nCNJLIJW8MugjYPeScsQN8aC5szi1UCVM&_nc_zt=23&_nc_ht=scontent.fdxb1-1.fna&_nc_gid=VcZ45paPjkP3zdExnCr2uQ&_nc_ss=8&oh=00_AfxwngVgmKGY2LvbJ7hN32D5IW7xXUq4dZsbhORH2JYHDw&oe=69BE603D" group-title="Relax",Space Live
 https://880ca9c9341c405f83d8664a18cc7134.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1224-SPACELIVE-LG-UK/mt/lg-uk/1224/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="Documentary",Love Nature
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+
 
