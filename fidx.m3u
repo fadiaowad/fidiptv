@@ -1,6 +1,9 @@
 #EXTM3U
 #PLAYLIST: Fid
 
+#EXTINF:-1 tvg-id="AsharqDiscovery.sa" group-title="Documentary",Asharq Discovery Max
+https://itworkscdn.net
+
 #EXTINF:-1 tvg-id="AsharqDiscovery.sa@SD" tvg-logo="https://i.imgur.com/Czxi7yk.png" group-title="Documentary",Asharq Discovery
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 
