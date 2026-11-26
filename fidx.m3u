@@ -5,9 +5,6 @@
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Classics.svg/500px-Cartoon_Classics.svg.png?_=20231209162922" group-title="Cartoon",Cartoon Classics
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8?ads.vf=7TNIxrkadpW
 
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://www.metvtoons.com/images/metvtoons_logo_blue_tm.png?v1" group-title="Cartoon",ME TV TOONS
-https://d3m10mlzdolmch.cloudfront.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/metv_toon_nr/0d1dbf29e64e47bc991796cc24fbeb97/index.m3u8
-
 #EXTINF:-1 tvg-id="Mr_Bean_Animated" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="Cartoon",Mr Bean Animated
 https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8
 
@@ -114,9 +111,6 @@ https://d7i20u8nlyf1b.cloudfront.net/VevoHipHopRB_GB.m3u8?checkedby:iptvcat.net
 
 #EXTINF:-1 tvg-name="Vevo Pop UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC19000017V_20230614T010200SQUARE.png_20230614010200.png" group-title="Music",Vevo Pop UK
 https://d2n3779oy6efpi.cloudfront.net/playlist.m3u8?checkedby:iptvcat.net
-
-#EXTINF:-1 tvg-name="Vevo Pop UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC19000017V_20230614T010200SQUARE.png_20230614010200.png" group-title="Music",Vevo Pop UK
-https://d3vozqshwmzka8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-4gaocq9h7j3r3/playlist.m3u8?ads.ads_cdn=cf&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.consent=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D&ads.service_id=GBBC19000017V&ads.ssai_vendor=SSSLIVE&checkedby%3Aiptvcat.net=&pb_type=pb-4gaocq9h7j3r3_cloudfront
 
 #EXTINF:-1 tvg-id="M6Music.fr" tvg-name="M6 Music" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1d/M6_Music_2012.png" group-title="Music",M6 Music
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/m6_music_hits/live.livx/playlist.m3u8?checkedby:iptvcat.net
