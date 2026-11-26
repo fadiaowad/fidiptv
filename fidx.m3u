@@ -187,13 +187,13 @@ https://live-content.xumo.com/133/content/XM0O5O03UU7UOW/5168256/master.m3u8
 #EXTINF:-1 tvg-id="StingrayCityscapes.ca" tvg-name="Stingray Cityscapes" tvg-logo="https://www.stingray.com/wp-content/uploads/2026/01/Cityscapes_Logo_Hor_RGB_Color-1.png" group-title="Relax",Stingray Cityscapes
 https://aka-live1050.delivery.roku.com/7572d640-7373-4137-8b14-a3afff395349/t2-origin/out/v1/live.m3u8
 
-#EXTINF:-1 tvg-id="StingrayHolidayscapes.ca" tvg-name="Stingray Holidayscapes" tvg-logo="https://www.stingray.com/wp-content/uploads/2024/05/holidayscapes-logo.svg" group-title="Relax",Stingray Holidayscapes
+#EXTINF:-1 tvg-id="StingrayHolidayscapes.ca" tvg-name="Stingray Holidayscapes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9cb4b15c-8244-4499-ae2c-9a92d4cdff6d/13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png" group-title="Relax",Stingray Holidayscapes
 https://lotus.stingray.com/manifest/holidayscapes-hol001ads_hol001-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1 tvg-id="StingrayCozyCafe.ca" tvg-name="Stingray Cozy Café" tvg-logo="https://www.stingray.com/wp-content/uploads/2026/01/cozycafe_logo_200x97.png" group-title="Relax",Stingray Cozy Café
 https://aka-live1050.delivery.roku.com/372c813e-1fb9-41d4-a4d0-5fbd803659c5/t2-origin/out/v1/live.m3u8
 
-#EXTINF:-1 tvg-id="ZenLIFEbyStingray.ca@HD" tvg-name="ZenLIFE by Stingray" tvg-logo="https://www.stingray.com/wp-content/uploads/2023/12/stingray_zenlifebystingray_white.svg" group-title="Relax",ZenLIFE by Stingray
+#EXTINF:-1 tvg-id="ZenLIFEbyStingray.ca@HD" tvg-name="ZenLIFE by Stingray" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500027DS_20240520T212949SQUARE.png" group-title="Relax",ZenLIFE by Stingray
 https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-name="Stingray Naturescape" tvg-logo="https://i.imgur.com/882kd90.png" group-title="Relax",Stingray Naturescape
